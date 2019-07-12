@@ -1,0 +1,27 @@
+.container{
+    background-color: #fb059b; 
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+@media screen and (min-width: 790px) {
+    .container{
+        width: 790px;
+    }
+}
+.flex-container {
+    display: flex;
+    background-color: lightblue;
+    flex-direction: column;
+}
+.flex-item {
+    background-color: pink;
+    margin: 10px;
+}
+header{
+    background-color: lightblue;
+}
+footer{
+    background-color: lightblue;
+}

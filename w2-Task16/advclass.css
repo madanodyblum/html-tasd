@@ -1,0 +1,32 @@
+.container{
+    border: 2px solid transparent;
+    padding: 15px;
+    border-color:#269de2;
+    background-color: #11111111; 
+    padding: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    height: 500px;
+    width:800px;
+   
+}
+h1{
+    color:#FC060C;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+header{
+    color:#8e9ba2;
+}
+.friend{
+     font-style: oblique;
+}
+#Hermione{
+    color:#FBF149;
+
+}
+#ron{
+    color:#6D433F;
+
+}
